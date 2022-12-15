@@ -3,6 +3,6 @@ export function auth() {
 		id: 'wejfewi32',
 		name: 'Peter',
 		email: 'peter@peter.peter',
-		roled: ['admin']
+		roles: ['admin']
 	};
 }
